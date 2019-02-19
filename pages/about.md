@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: 让巨象跳舞学会跳舞
 keywords: Yue Lou, 娄跃
 comments: true
 menu: 关于
