@@ -7,7 +7,7 @@ date_format: "ordinal"
 title: 码志
 subtitle: "打码改变人生"
 description: "娄跃的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+keywords: 码志, Yue Lou, mzlogin, louyue
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Yue Lou
 organization: 
 organization_url: 
 github_username: mzlogin
