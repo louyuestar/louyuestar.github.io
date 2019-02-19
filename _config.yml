@@ -95,15 +95,15 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: louyue
-    repo: blog-comments
+    owner: louyuestar
+    repo: louyuestar.github.io
     oauth:
         client_id: ce9bfd900f345bbc21e2
         client_secret: 1dccfb9349dce5bc0d64c87246a6c5f43c4d2ffa
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: louyue
-    repo: blog-comments
+    owner: louyuestar
+    repo: louyuestar.github.io
     clientID: ce9bfd900f345bbc21e2
     clientSecret: 1dccfb9349dce5bc0d64c87246a6c5f43c4d2ffa
 # 在使用其它评论组件时可点击显示 Disqus
